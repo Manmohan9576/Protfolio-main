@@ -32,7 +32,7 @@ const Resume = () => {
         </p>
 
         <a
-          href="src/assets/Cousera_Certificate/resume.pdf"
+          href="src/assets/resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="btn"
