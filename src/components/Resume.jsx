@@ -1,4 +1,5 @@
 import React from 'react';
+import resumePdf from '../assets/resume.pdf';
 
 const Resume = () => {
   return (
@@ -32,7 +33,7 @@ const Resume = () => {
         </p>
 
         <a
-          href="src/assets/resume.pdf"
+          href={resumePdf}
           target="_blank"
           rel="noopener noreferrer"
           className="btn"
